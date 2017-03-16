@@ -1,0 +1,31 @@
+{
+  "name": "app-toast",
+  "description": "A swipeable, actionable, and themable paper-toast.",
+  "main": "app-toast.html",
+  "dependencies": {
+    "polymer": "^1.8.1",
+    "paper-toast": "^1.3.0",
+    "iron-flex-layout": "^1.3.2",
+    "iron-icon": "^1.0.12",
+    "paper-styles": "^1.2.0",
+    "paper-button": "^1.0.14",
+    "iron-iconset-svg": "^1.1.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "homepage": "https://github.com/jifalops/app-toast",
+  "_release": "25da949ba4",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "25da949ba442c0e06530a4177141a873e3032138"
+  },
+  "_source": "https://github.com/jifalops/app-toast.git",
+  "_target": "master",
+  "_originalSource": "jifalops/app-toast",
+  "_direct": true
+}
